@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Full-Stack Task Management Application
 
 A responsive task manager for the internship task. It includes account registration/login, protected task API endpoints, task CRUD, status and priority management, search, due dates and a mobile-friendly dashboard.
@@ -87,3 +88,7 @@ Deploy as a **single persistent Node.js service** that runs Express and supports
 3. **Authentication:** bcrypt hashes passwords; the server signs a JWT and the browser sends it as a Bearer token for protected APIs.
 4. **CRUD:** the browser uses `GET`, `POST`, `PATCH` and `DELETE` requests to manage data.
 5. **Trade-off:** JSON storage is easy to run locally, but a proper deployed system should use a database.
+=======
+# Taskflow
+Task management application 
+>>>>>>> ba0d8668686228692f820916cbe2ca75982bf1d8
